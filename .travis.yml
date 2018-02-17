@@ -4,4 +4,4 @@ python:
   - 3.6.4
 install:
   - pip install unittest2
-script: python test_rpn
+script: python test_rpn.py
