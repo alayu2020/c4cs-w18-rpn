@@ -5,7 +5,7 @@ python:
   - 3.6.4
 
 install:
-  - pip install unittest
+  - pip install unittest2
 
 script:
-  - unittest
+  - python test_rpn
